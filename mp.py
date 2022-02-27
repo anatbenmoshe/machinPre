@@ -12,5 +12,3 @@ def machineEpsilon():  # find and return machine epsilon
 
 print(machineEpsilon())  # print machine epsilon
 print(abs(3.0 * (4.0 / 3.0 - 1) - 1)+machineEpsilon())
-print("anat")
-print("aaa")
